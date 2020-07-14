@@ -1,0 +1,764 @@
+# depslib dependency file v1.0
+1574591645 source:c:\users\pc\desktop\proj 2\src\quiz.cpp
+	"Quiz.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+	"Database.h"
+	<stdlib.h>
+	<vector>
+
+1574591645 c:\users\pc\desktop\proj 2\include\quiz.h
+	"Complete.h"
+	"TrueFalse.h"
+	"MCQ.h"
+	<vector>
+
+1574588816 source:c:\users\pc\desktop\proj 2\main.cpp
+	<iostream>
+	"User.h"
+	"Question.h"
+	"DataBase.h"
+	"Admin.h"
+
+1574540430 c:\users\pc\desktop\proj 2\include\user.h
+	<iostream>
+	<string>
+
+1574616322 c:\users\pc\desktop\proj 2\include\question.h
+	<iostream>
+	<vector>
+	"PlayerAnswer.h"
+
+1574589761 c:\users\pc\desktop\proj 2\include\database.h
+	"User.h"
+	"Question.h"
+	<vector>
+	"Question.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+
+1574588769 c:\users\pc\desktop\proj 2\include\admin.h
+	"User.h"
+
+1574616536 source:c:\users\pc\desktop\proj 2\src\admin.cpp
+	"Admin.h"
+	"Database.h"
+	"MCQ.h"
+	"Complete.h"
+	"TrueFalse.h"
+
+1574590678 source:c:\users\pc\desktop\proj 2\src\complete.cpp
+	"Complete.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1574616307 c:\users\pc\desktop\proj 2\include\complete.h
+	"Question.h"
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+
+1574615554 source:c:\users\pc\desktop\proj 2\src\database.cpp
+	"Database.h"
+	"User.h"
+	"Question.h"
+
+1574616077 source:c:\users\pc\desktop\proj 2\src\mcq.cpp
+	"MCQ.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"MCQ.h"
+	"Database.h"
+
+1574616224 c:\users\pc\desktop\proj 2\include\mcq.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1574598605 source:c:\users\pc\desktop\proj 2\src\player.cpp
+	"Player.h"
+	"Quiz.h"
+	"Database.h"
+
+1574597628 c:\users\pc\desktop\proj 2\include\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+
+1574590678 source:c:\users\pc\desktop\proj 2\src\question.cpp
+	"Question.h"
+	"MCQ.h"
+	"DataBase.h"
+	"Complete.h"
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1574616224 c:\users\pc\desktop\proj 2\include\truefalse.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1574594272 source:c:\users\pc\desktop\proj 2\src\truefalse.cpp
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1574540430 source:c:\users\pc\desktop\proj 2\src\user.cpp
+	"User.h"
+	"DataBase.h"
+	"Admin.h"
+	"Player.h"
+
+1574538946 source:c:\users\pc\desktop\proj 2\src\playeranswer.cpp
+	"PlayerAnswer.h"
+
+1574539086 c:\users\pc\desktop\proj 2\include\playeranswer.h
+	<iostream>
+
+1574846264 source:c:\users\pc\desktop\proj 2(1)\main.cpp
+	<iostream>
+	"User.h"
+	"Question.h"
+	"DataBase.h"
+	"Admin.h"
+
+1574540430 c:\users\pc\desktop\proj 2(1)\include\user.h
+	<iostream>
+	<string>
+
+1574948710 c:\users\pc\desktop\proj 2(1)\include\question.h
+	<iostream>
+	<vector>
+	"PlayerAnswer.h"
+
+1574539086 c:\users\pc\desktop\proj 2(1)\include\playeranswer.h
+	<iostream>
+
+1574846252 c:\users\pc\desktop\proj 2(1)\include\database.h
+	"User.h"
+	"Question.h"
+	<vector>
+	"Question.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+
+1574948570 c:\users\pc\desktop\proj 2(1)\include\truefalse.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1574948377 c:\users\pc\desktop\proj 2(1)\include\complete.h
+	"Question.h"
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+
+1574948263 c:\users\pc\desktop\proj 2(1)\include\mcq.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1574588769 c:\users\pc\desktop\proj 2(1)\include\admin.h
+	"User.h"
+
+1574948570 source:c:\users\pc\desktop\proj 2(1)\src\admin.cpp
+	"Admin.h"
+	"Database.h"
+	"MCQ.h"
+	"Complete.h"
+	"TrueFalse.h"
+
+1574948607 source:c:\users\pc\desktop\proj 2(1)\src\complete.cpp
+	"Complete.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1574949394 source:c:\users\pc\desktop\proj 2(1)\src\database.cpp
+	"Database.h"
+	"User.h"
+	"Question.h"
+
+1574948263 source:c:\users\pc\desktop\proj 2(1)\src\mcq.cpp
+	"MCQ.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"MCQ.h"
+	"Database.h"
+
+1574877676 source:c:\users\pc\desktop\proj 2(1)\src\player.cpp
+	"Player.h"
+	"Quiz.h"
+	"Database.h"
+
+1574846796 c:\users\pc\desktop\proj 2(1)\include\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+
+1574846796 c:\users\pc\desktop\proj 2(1)\include\quiz.h
+	"Complete.h"
+	"TrueFalse.h"
+	"MCQ.h"
+	<vector>
+
+1574870362 source:c:\users\pc\desktop\proj 2(1)\src\playeranswer.cpp
+	"PlayerAnswer.h"
+
+1574948682 source:c:\users\pc\desktop\proj 2(1)\src\question.cpp
+	"Question.h"
+	"MCQ.h"
+	"DataBase.h"
+	"Complete.h"
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1574870231 source:c:\users\pc\desktop\proj 2(1)\src\quiz.cpp
+	"Quiz.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+	"Database.h"
+	<stdlib.h>
+	<vector>
+
+1574948607 source:c:\users\pc\desktop\proj 2(1)\src\truefalse.cpp
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1574883650 source:c:\users\pc\desktop\proj 2(1)\src\user.cpp
+	"User.h"
+	"DataBase.h"
+	"Admin.h"
+	"Player.h"
+
+1575055311 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\main.cpp
+	<iostream>
+	"User.h"
+	"Question.h"
+	"DataBase.h"
+	"Admin.h"
+
+1574540432 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\user.h
+	<iostream>
+	<string>
+
+1574948712 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\question.h
+	<iostream>
+	<vector>
+	"PlayerAnswer.h"
+
+1574539088 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\playeranswer.h
+	<iostream>
+
+1574846254 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\database.h
+	"User.h"
+	"Question.h"
+	<vector>
+	"Question.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+
+1574948572 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\truefalse.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1574948378 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\complete.h
+	"Question.h"
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+
+1574948264 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\mcq.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1574588770 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\admin.h
+	"User.h"
+
+1575054717 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\admin.cpp
+	"Admin.h"
+	"Database.h"
+	"MCQ.h"
+	"Complete.h"
+	"TrueFalse.h"
+
+1575050825 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\complete.cpp
+	"Complete.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1575055311 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\database.cpp
+	"Database.h"
+	"User.h"
+	"Question.h"
+
+1575055311 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\mcq.cpp
+	"MCQ.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"MCQ.h"
+	"Database.h"
+
+1575050666 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\player.cpp
+	"Player.h"
+	"Quiz.h"
+	"Database.h"
+
+1574846798 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+
+1574846798 d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\include\quiz.h
+	"Complete.h"
+	"TrueFalse.h"
+	"MCQ.h"
+	<vector>
+
+1574870364 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\playeranswer.cpp
+	"PlayerAnswer.h"
+
+1574948684 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\question.cpp
+	"Question.h"
+	"MCQ.h"
+	"DataBase.h"
+	"Complete.h"
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1575050666 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\quiz.cpp
+	"Quiz.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+	"Database.h"
+	<stdlib.h>
+	<vector>
+
+1574984589 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\truefalse.cpp
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1574980936 source:d:\fci\year2\oop\assignment\assignment-2\proj-2\proj 2(1)\src\user.cpp
+	"User.h"
+	"DataBase.h"
+	"Admin.h"
+	"Player.h"
+
+1575055312 source:c:\users\pc\desktop\proj 2(1) - copy\main.cpp
+	<iostream>
+	"User.h"
+	"Question.h"
+	"DataBase.h"
+	"Admin.h"
+
+1574540432 c:\users\pc\desktop\proj 2(1) - copy\include\user.h
+	<iostream>
+	<string>
+
+1574948712 c:\users\pc\desktop\proj 2(1) - copy\include\question.h
+	<iostream>
+	<vector>
+	"PlayerAnswer.h"
+
+1574539088 c:\users\pc\desktop\proj 2(1) - copy\include\playeranswer.h
+	<iostream>
+
+1574846254 c:\users\pc\desktop\proj 2(1) - copy\include\database.h
+	"User.h"
+	"Question.h"
+	<vector>
+	"Question.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+
+1574948572 c:\users\pc\desktop\proj 2(1) - copy\include\truefalse.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1575059168 c:\users\pc\desktop\proj 2(1) - copy\include\complete.h
+	"Question.h"
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+
+1574948264 c:\users\pc\desktop\proj 2(1) - copy\include\mcq.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1574588770 c:\users\pc\desktop\proj 2(1) - copy\include\admin.h
+	"User.h"
+
+1575060151 source:c:\users\pc\desktop\proj 2(1) - copy\src\admin.cpp
+	"Admin.h"
+	"Database.h"
+	"MCQ.h"
+	"Complete.h"
+	"TrueFalse.h"
+
+1575059105 source:c:\users\pc\desktop\proj 2(1) - copy\src\complete.cpp
+	"Complete.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1575055312 source:c:\users\pc\desktop\proj 2(1) - copy\src\database.cpp
+	"Database.h"
+	"User.h"
+	"Question.h"
+
+1575055312 source:c:\users\pc\desktop\proj 2(1) - copy\src\mcq.cpp
+	"MCQ.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"MCQ.h"
+	"Database.h"
+
+1575050668 source:c:\users\pc\desktop\proj 2(1) - copy\src\player.cpp
+	"Player.h"
+	"Quiz.h"
+	"Database.h"
+
+1574846798 c:\users\pc\desktop\proj 2(1) - copy\include\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+
+1574846798 c:\users\pc\desktop\proj 2(1) - copy\include\quiz.h
+	"Complete.h"
+	"TrueFalse.h"
+	"MCQ.h"
+	<vector>
+
+1574870364 source:c:\users\pc\desktop\proj 2(1) - copy\src\playeranswer.cpp
+	"PlayerAnswer.h"
+
+1574948684 source:c:\users\pc\desktop\proj 2(1) - copy\src\question.cpp
+	"Question.h"
+	"MCQ.h"
+	"DataBase.h"
+	"Complete.h"
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1575050668 source:c:\users\pc\desktop\proj 2(1) - copy\src\quiz.cpp
+	"Quiz.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+	"Database.h"
+	<stdlib.h>
+	<vector>
+
+1575058437 source:c:\users\pc\desktop\proj 2(1) - copy\src\truefalse.cpp
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1575055414 source:c:\users\pc\desktop\proj 2(1) - copy\src\user.cpp
+	"User.h"
+	"DataBase.h"
+	"Admin.h"
+	"Player.h"
+
+1575055312 source:c:\users\pc\desktop\proj 2(1) - version 1\main.cpp
+	<iostream>
+	"User.h"
+	"Question.h"
+	"DataBase.h"
+	"Admin.h"
+
+1574540432 c:\users\pc\desktop\proj 2(1) - version 1\include\user.h
+	<iostream>
+	<string>
+
+1574948712 c:\users\pc\desktop\proj 2(1) - version 1\include\question.h
+	<iostream>
+	<vector>
+	"PlayerAnswer.h"
+
+1574539088 c:\users\pc\desktop\proj 2(1) - version 1\include\playeranswer.h
+	<iostream>
+
+1574846254 c:\users\pc\desktop\proj 2(1) - version 1\include\database.h
+	"User.h"
+	"Question.h"
+	<vector>
+	"Question.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+
+1574948572 c:\users\pc\desktop\proj 2(1) - version 1\include\truefalse.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1575059168 c:\users\pc\desktop\proj 2(1) - version 1\include\complete.h
+	"Question.h"
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+
+1574948264 c:\users\pc\desktop\proj 2(1) - version 1\include\mcq.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1574588770 c:\users\pc\desktop\proj 2(1) - version 1\include\admin.h
+	"User.h"
+
+1575060151 source:c:\users\pc\desktop\proj 2(1) - version 1\src\admin.cpp
+	"Admin.h"
+	"Database.h"
+	"MCQ.h"
+	"Complete.h"
+	"TrueFalse.h"
+
+1575109458 source:c:\users\pc\desktop\proj 2(1) - version 1\src\complete.cpp
+	"Complete.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1575055312 source:c:\users\pc\desktop\proj 2(1) - version 1\src\database.cpp
+	"Database.h"
+	"User.h"
+	"Question.h"
+
+1575055312 source:c:\users\pc\desktop\proj 2(1) - version 1\src\mcq.cpp
+	"MCQ.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"MCQ.h"
+	"Database.h"
+
+1575050668 source:c:\users\pc\desktop\proj 2(1) - version 1\src\player.cpp
+	"Player.h"
+	"Quiz.h"
+	"Database.h"
+
+1574846798 c:\users\pc\desktop\proj 2(1) - version 1\include\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+
+1574846798 c:\users\pc\desktop\proj 2(1) - version 1\include\quiz.h
+	"Complete.h"
+	"TrueFalse.h"
+	"MCQ.h"
+	<vector>
+
+1574870364 source:c:\users\pc\desktop\proj 2(1) - version 1\src\playeranswer.cpp
+	"PlayerAnswer.h"
+
+1574948684 source:c:\users\pc\desktop\proj 2(1) - version 1\src\question.cpp
+	"Question.h"
+	"MCQ.h"
+	"DataBase.h"
+	"Complete.h"
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1575050668 source:c:\users\pc\desktop\proj 2(1) - version 1\src\quiz.cpp
+	"Quiz.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+	"Database.h"
+	<stdlib.h>
+	<vector>
+
+1575058437 source:c:\users\pc\desktop\proj 2(1) - version 1\src\truefalse.cpp
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1575055414 source:c:\users\pc\desktop\proj 2(1) - version 1\src\user.cpp
+	"User.h"
+	"DataBase.h"
+	"Admin.h"
+	"Player.h"
+
+1575125786 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\admin.cpp
+	"Admin.h"
+	"Database.h"
+	"MCQ.h"
+	"Complete.h"
+	"TrueFalse.h"
+
+1575127924 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\admin.h
+	"User.h"
+	"MCQ.h"
+
+1574540432 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\user.h
+	<iostream>
+	<string>
+
+1574846254 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\database.h
+	"User.h"
+	"Question.h"
+	<vector>
+	"Question.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+
+1574948712 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\question.h
+	<iostream>
+	<vector>
+	"PlayerAnswer.h"
+
+1574539088 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\playeranswer.h
+	<iostream>
+
+1574948572 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\truefalse.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1575059168 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\complete.h
+	"Question.h"
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+
+1575127111 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\mcq.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	"Question.h"
+
+1575109458 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\complete.cpp
+	"Complete.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1575055312 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\database.cpp
+	"Database.h"
+	"User.h"
+	"Question.h"
+
+1575127111 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\mcq.cpp
+	"MCQ.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"MCQ.h"
+	"Database.h"
+
+1575050668 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\player.cpp
+	"Player.h"
+	"Quiz.h"
+	"Database.h"
+
+1574846798 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\player.h
+	"User.h"
+	"Quiz.h"
+	<vector>
+
+1574846798 c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\include\quiz.h
+	"Complete.h"
+	"TrueFalse.h"
+	"MCQ.h"
+	<vector>
+
+1574870364 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\playeranswer.cpp
+	"PlayerAnswer.h"
+
+1574948684 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\question.cpp
+	"Question.h"
+	"MCQ.h"
+	"DataBase.h"
+	"Complete.h"
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+
+1575050668 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\quiz.cpp
+	"Quiz.h"
+	"TrueFalse.h"
+	"Complete.h"
+	"MCQ.h"
+	"Database.h"
+	<stdlib.h>
+	<vector>
+
+1575058437 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\truefalse.cpp
+	"TrueFalse.h"
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	"Database.h"
+
+1575055414 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\src\user.cpp
+	"User.h"
+	"DataBase.h"
+	"Admin.h"
+	"Player.h"
+
+1575115972 source:c:\users\pc\desktop\asgmnt2_g#(13-14 )id1(20180285)id2(20180003)id3(20180286)id4(20180304)\main.cpp
+	<iostream>
+	"User.h"
+	"Question.h"
+	"DataBase.h"
+	"Admin.h"
+
